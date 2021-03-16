@@ -1,1 +1,1 @@
-# hello
+# hello. This is an attempt to learn the git version control thing ah ma jig. Did i get that right? All that realy mean is, we have no idea how this works and where to find out what is the thing in the ma jig
